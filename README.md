@@ -1,5 +1,5 @@
 # REPLICA DA CALCULADORA DO IOS
-![preview](../.github/preview.png)
+![preview](./.github/preview.png)
 
 > Calculadora desenvolvida para fixação / aperfeiçoamento das funcionalidades do REACT.
 
